@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: tan;
+}
+
+p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.friend{
+  background-color: blue;
+  margin-right: auto;
+  margin-left: auto;
+  width: 25%;
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 25px;
+  margin-top: 10px;
+}
